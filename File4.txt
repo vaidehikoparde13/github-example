@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello this is main branch.
 We are now in mybranch1.
+=======
+Hello this is main branch.
+>>>>>>> main
